@@ -1,0 +1,5 @@
+com.queenstech.todo
+drawable launch_background
+mipmap ic_launcher
+mipmap todo_icon
+style LaunchTheme
