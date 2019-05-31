@@ -7,8 +7,8 @@ A Simple To-do app design in flutter to keep track of your task on daily basis. 
 ## Features
 
 - Build on [**BLoC**](#bloc-diagram) Architecture Pattern
-- Add [**Labels**](#labels) by specifying a unique color to it
-- Add [**Task**](#task) by defining its priority
+- Add different [**Task blocks**](#blocks) by specifying a unique color to them
+- Add [**Task**](#task) in the desired block
 - [**Tap**](#tap-the-task) to delete or complete the task
 - Works offline using [**Sqflite**](https://github.com/tekartik/sqflite "Flutter Database") database
 
