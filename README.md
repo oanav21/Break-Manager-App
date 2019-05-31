@@ -15,7 +15,7 @@ A Simple To-do app design in flutter to keep track of your task on daily basis. 
 ## BLoC Diagram
 This diagram show case the dependencies to create a feature specific BLoCs.The HomeBloc is independent and used as communication channel between its child widgets.
 ![](https://i.imgur.com/iCdcCUh.png)
-
+* Diagram was made for the final app, not this intermediary task manager app *
 
 ## User Stories
 
